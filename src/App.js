@@ -3,7 +3,7 @@ import Dictionary from './Dictionary'
 import Result from './Result'
 import './App.css'
 
- function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="Container">
@@ -30,4 +30,3 @@ import './App.css'
   )
 }
 
-export default App;
