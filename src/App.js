@@ -1,6 +1,6 @@
 import logo from './logo.png'
 import Dictionary from './Dictionary'
-import Result from './Result'
+import Result from './Results'
 import './App.css'
 
 export default function App() {
